@@ -3,6 +3,10 @@
   <!-- Шапка -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,25,30&height=250&section=header&text=Frontend%20Developer&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=fff" width="100%" />
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=filimonovalexey.filimonovalexey&"  />
+</div>
+
   <!-- Слоган -->
   <h3>
     Turning designs into <code>&lt;Component /&gt;</code>
