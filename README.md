@@ -13,13 +13,13 @@
 
   <!-- Telegram -->
   <a href="https://t.me/ilya_razin">
-    <img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" height="50" width="50" alt="Telegram" />
+    <img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" height="40" width="40" alt="Telegram" />
   </a>
   &nbsp; <!-- Отступ -->
   
   <!-- Gmail -->
   <a href="mailto:vilzar.developer@gmail.com">
-    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" height="50" width="50" alt="Gmail" />
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" height="40" width="40" alt="Gmail" />
   </a>
   &nbsp;
 
