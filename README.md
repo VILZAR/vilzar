@@ -53,7 +53,7 @@
         <b>Styling & UI</b>
       </td>
       <td align="left">
-        <img src="https://skillicons.dev/icons?i=tailwind,sass,bootstrap" height="40" alt="styling" />
+        <img src="https://skillicons.dev/icons?i=tailwind,sass,bootstrap,threejs" height="40" alt="styling" />
       </td>
     </tr>
     <tr>
@@ -111,5 +111,3 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vilzar/vilzar/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
-
