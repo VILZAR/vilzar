@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Шапка -->
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00FF99,100:001F4D&height=200&section=header&text=Frontend%20Developer&fontSize=80&animation=fadeIn&fontColor=FFFFFF&stroke=0D1117" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00FF99,100:001F4D&height=200&section=header&text=Frontend%20Developer&fontSize=80&animation=fadeIn&fontColor=FFFFFF&stroke=4B5563" width="100%" />
 
   <br />
 
