@@ -16,7 +16,7 @@
       <!-- светлая тема GitHub -->
       <source
         media="(prefers-color-scheme: light)"
-        srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Turning+designs+into+<Component+/>;Coffee+into+<Code+/>;And+ideas+into+<Reality+/>"
+        srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4B5563&center=true&vCenter=true&width=435&lines=Turning+designs+into+<Component+/>;Coffee+into+<Code+/>;And+ideas+into+<Reality+/>"
       />
       <!-- fallback (на всякий случай) -->
       <img
