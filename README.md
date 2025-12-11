@@ -95,8 +95,6 @@
     </tr>
   </table>
 
-  <br />
-
   <!-- Змейка -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vilzar/vilzar/output/github-contribution-grid-snake-dark.svg">
